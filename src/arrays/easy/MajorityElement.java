@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/majority-element/
+
 package src.arrays.easy;
 
 import java.util.HashMap;
@@ -25,3 +27,9 @@ public class MajorityElement {
 	    }
 	}
 }
+
+/**
+ * Solving it using generic HashMap way.
+ * - Counting frequency of all integers until on hits the bench. Return it then and there.
+ * - Fixed for corner cases
+ */
