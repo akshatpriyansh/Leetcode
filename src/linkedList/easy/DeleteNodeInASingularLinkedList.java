@@ -1,4 +1,4 @@
-package src.linkedList;
+package src.easy.linkedList;
 
 public class DeleteNodeInASingularLinkedList {
   public class ListNode {
