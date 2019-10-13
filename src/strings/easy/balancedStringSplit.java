@@ -1,4 +1,4 @@
-package src.easy.strings;
+package src.strings.easy;
 
 public class balancedStringSplit {
 	public int balancedStringSplit(String s) {

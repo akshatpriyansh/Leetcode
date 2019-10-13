@@ -1,4 +1,4 @@
-package src.easy.linkedList;
+package src.linkedList.easy;
 
 public class ReverseLinkedList {
 	public static class ListNode {

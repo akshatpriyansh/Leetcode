@@ -1,4 +1,4 @@
-package src.easy.arrays;
+package src.arrays.easy;
 
 // https://leetcode.com/problems/move-zeroes/
 

@@ -1,4 +1,4 @@
-package src.easy.arrays;
+package src.arrays.easy;
 
 public class BestTimetoBuyAndSellStocks {
     public int maxProfit(int[] prices) {
